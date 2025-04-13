@@ -1,0 +1,3627 @@
+{
+    "instruments": [
+        {
+            "figi": "BBG004S68614",
+            "ticker": "AFKS",
+            "classCode": "TQBR",
+            "isin": "RU000A0DQZE3",
+            "lot": 100,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "АФК Система",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2007-11-01T00:00:00Z",
+            "issueSize": "9650000000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "9650000000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 90000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 1000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "53b67587-96eb-4b41-8e0c-d2e3c0bdd234",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "388f516c-149f-4e44-b969-0a50868a0591",
+            "assetUid": "460475ed-a5fc-48cd-a4e8-9f848657ba73",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2007-09-25T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0DQZE3.png",
+                "logoBaseColor": "#137baf",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S683W7",
+            "ticker": "AFLT",
+            "classCode": "TQBR",
+            "isin": "RU0009062285",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Аэрофлот",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2004-01-23T00:00:00Z",
+            "issueSize": "3975771215",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "consumer",
+            "issueSizePlan": "1110616299",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "1c69e020-f3b1-455c-affa-45f8b8049234",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "8615c3f2-758c-42be-a69d-c97ac9d95f04",
+            "assetUid": "b647e8d7-46de-4f29-bb5a-a1e594063b2d",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "RU0009062285.png",
+                "logoBaseColor": "#014a99",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG007N0Z367",
+            "ticker": "AGRO",
+            "classCode": "TQBR",
+            "isin": "US7496552057",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 233000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "РусАгро",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2011-04-08T00:00:00Z",
+            "issueSize": "134531352",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "consumer",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "usd",
+                "units": "0",
+                "nano": 200000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_ADR",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "46ae47ee-f409-4776-bf20-43a040b9e7fb",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "f8a4d4f3-92a8-4f09-b77b-127d588ddf04",
+            "assetUid": "65479988-3904-4f1b-a15f-8f3ad99b0234",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:42:00Z",
+            "first1dayCandleDate": "2014-12-01T00:00:00Z",
+            "brand": {
+                "logoName": "US7496552057.png",
+                "logoBaseColor": "#9AA8A8",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S68B31",
+            "ticker": "ALRS",
+            "classCode": "TQBR",
+            "isin": "RU0007252813",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "АЛРОСА",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2011-08-25T00:00:00Z",
+            "issueSize": "7364965630",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "7364965630",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 500000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "30817fea-20e6-4fee-ab1f-d20fc1a1bb72",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "962f3a99-3b2d-4af6-995e-26be412b7b22",
+            "assetUid": "f924d7df-b6d0-4e36-9bf7-f38aaac2ce53",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2011-11-30T07:00:00Z",
+            "brand": {
+                "logoName": "RU0007252813.png",
+                "logoBaseColor": "#DCE0E4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG009GSYN76",
+            "ticker": "CBOM",
+            "classCode": "TQBR",
+            "isin": "RU000A0JUG31",
+            "lot": 100,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 300000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 400000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 280000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 380000000
+            },
+            "shortEnabledFlag": true,
+            "name": "МКБ",
+            "exchange": "MOEX_PLUS",
+            "ipoDate": "1999-08-18T00:00:00Z",
+            "issueSize": "33429709866",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "160293000",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 1000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "ebfda284-4291-4337-9dfb-f55610d0a907",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "5af74434-e5da-47c9-b5be-aef9bc7fe057",
+            "assetUid": "e5008a9b-a7e2-4c45-a313-8b630b669f46",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": false,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:43:00Z",
+            "first1dayCandleDate": "2015-07-01T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JUG31.png",
+                "logoBaseColor": "#A92B3E",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG00475K6C3",
+            "ticker": "CHMF",
+            "classCode": "TQBR",
+            "isin": "RU0009046510",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Северсталь",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2004-11-30T00:00:00Z",
+            "issueSize": "837718660",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "551854800",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 10000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "fa6aae10-b8d5-48c8-bbfd-d320d925d096",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "50aac9d1-b53b-4d96-934e-941fe78e38aa",
+            "assetUid": "e72889a3-21db-4b2e-90bc-045ec3d28d04",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2005-09-29T07:00:00Z",
+            "brand": {
+                "logoName": "RU0009046510.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG000RMWQD4",
+            "ticker": "ENPG",
+            "classCode": "TQBR",
+            "isin": "RU000A100K72",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": false,
+            "name": "Эн+",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2019-06-24T00:00:00Z",
+            "issueSize": "638848896",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "638848896",
+            "nominal": {
+                "currency": "usd",
+                "units": "0",
+                "nano": 70000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": false,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "e2bd2eba-75de-4127-b39c-2f2dbe3866c3",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "62dae90c-238b-433d-ae4e-47c72b324bc7",
+            "assetUid": "9b9cb779-d2c7-4e49-a6c3-5be1e08d9439",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2020-02-20T07:34:00Z",
+            "first1dayCandleDate": "2020-02-20T07:00:00Z",
+            "brand": {
+                "logoName": "US29355E2081.png",
+                "logoBaseColor": "#535353",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG00475JZZ6",
+            "ticker": "FEES",
+            "classCode": "TQBR",
+            "isin": "RU000A0JPNN9",
+            "lot": 10000,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 250400000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "ФСК Россети",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2002-09-10T00:00:00Z",
+            "issueSize": "2113460101477",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "utilities",
+            "issueSizePlan": "254000000000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 500000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 20000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "88e130e8-5b68-4b05-b9ae-baf32f5a3f21",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "4fedb973-dfc3-48de-b202-2940d8056542",
+            "assetUid": "fe38c295-6cdf-4108-a7c8-d259721b8977",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2008-07-16T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JPVJ0.png",
+                "logoBaseColor": "#5187b8",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG00JXPFBN0",
+            "ticker": "FIVE",
+            "classCode": "TQBR",
+            "isin": "US98387E2054",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "X5 RetailGroup ГДР",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "issueSize": "271572872",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "consumer",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "usd",
+                "units": "0",
+                "nano": 250000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_GDR",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "cc68221f-cc21-42a4-a52f-d819bfe4d4c0",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "561ec26b-608e-4c83-8c9d-ab5f3b03e235",
+            "assetUid": "19a10303-cd20-48d3-ac01-3daacbf34c37",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2018-02-01T07:00:00Z",
+            "brand": {
+                "logoName": "US98387E205.png",
+                "logoBaseColor": "#006104",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG000R04X57",
+            "ticker": "FLOT",
+            "classCode": "TQBR",
+            "isin": "RU000A0JXNU8",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 225700000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Совкомфлот",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "1996-08-22T00:00:00Z",
+            "issueSize": "2374993901",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "industrials",
+            "issueSizePlan": "1364538517",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "21423d2d-9009-4d37-9325-883b368d13ae",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "4419d6f3-b412-421e-8745-3bc6b7a93b09",
+            "assetUid": "75127af3-e54c-456f-ac0b-64dc5949a613",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2020-10-07T06:59:00Z",
+            "first1dayCandleDate": "2020-10-07T07:00:00Z",
+            "brand": {
+                "logoName": "ISSUANCEFLOT.png",
+                "logoBaseColor": "#214289",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004730RP0",
+            "ticker": "GAZP",
+            "classCode": "TQBR",
+            "isin": "RU0007661625",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Газпром",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "1998-12-30T00:00:00Z",
+            "issueSize": "23673512900",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "23673512900",
+            "nominal": {
+                "currency": "rub",
+                "units": "5",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "962e2a95-02a9-4171-abd7-aa198dbe643a",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "4f9d0c81-cdf9-4735-8295-bacbfa3b8a51",
+            "assetUid": "bfc8184d-9562-4ea2-87dd-be6e76dc1279",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2006-01-23T07:00:00Z",
+            "brand": {
+                "logoName": "RU0007661625.png",
+                "logoBaseColor": "#117cbf",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG000VFX6Y4",
+            "ticker": "GLTR",
+            "classCode": "TQBR",
+            "isin": "US37949E2046",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": false,
+            "name": "Globaltrans Investment PLC",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "issueSize": "158135533",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "industrials",
+            "issueSizePlan": "100000000",
+            "nominal": {
+                "currency": "usd",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_GDR",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 50000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "2c0e65d1-d8da-477c-a438-ac41bb132e25",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "3c6f41ec-dc5f-4636-832e-2cde00647da6",
+            "assetUid": "b6524b2b-77e0-4df2-ae74-370f60543f0e",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2020-10-28T06:59:00Z",
+            "first1dayCandleDate": "2020-10-28T07:00:00Z",
+            "brand": {
+                "logoName": "US37949E2046.png",
+                "logoBaseColor": "#f5f5f5",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004731489",
+            "ticker": "GMKN",
+            "classCode": "TQBR",
+            "isin": "RU0007288411",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Норильский никель",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2006-12-12T00:00:00Z",
+            "issueSize": "152863397",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "190627747",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "2",
+                "nano": 0
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "509edd0c-129c-4ee2-934d-7f6246126da1",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "8dfc66ef-bd19-4cbc-91b6-22ab581d7dae",
+            "assetUid": "ba7b5a1b-8515-4134-8c26-b69a2372fe82",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2006-12-26T07:00:00Z",
+            "brand": {
+                "logoName": "nornikel.png",
+                "logoBaseColor": "#2c499a",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG00475K2X9",
+            "ticker": "HYDR",
+            "classCode": "TQBR",
+            "isin": "RU000A0JPKH7",
+            "lot": 1000,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "РусГидро",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2005-02-22T00:00:00Z",
+            "issueSize": "444793377038",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "utilities",
+            "issueSizePlan": "103951322702",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 100000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "62560f05-3fd0-4d65-88f0-a27f249cc6de",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "9857cf24-8e1f-4632-bbdf-d3a1448ef7e4",
+            "assetUid": "4e4fcc9f-2bd6-40e1-8992-1c7351d8a7ff",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2008-05-22T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JPKH7.png",
+                "logoBaseColor": "#033059",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S68473",
+            "ticker": "IRAO",
+            "classCode": "TQBR",
+            "isin": "RU000A0JPNM1",
+            "lot": 100,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Интер РАО ЕЭС",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2014-12-23T00:00:00Z",
+            "issueSize": "104400000000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "utilities",
+            "issueSizePlan": "104400000000",
+            "nominal": {
+                "currency": "rub",
+                "units": "2",
+                "nano": 809767000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "2dfbc1fd-b92a-436e-b011-928c79e805f2",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "427f9bcc-2cab-4561-bf94-942d4261fbb7",
+            "assetUid": "efee0066-e7ca-4f56-a671-b22135b0e042",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:35:00Z",
+            "first1dayCandleDate": "2008-07-17T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JPNM1.png",
+                "logoBaseColor": "#a6b7c9",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004731032",
+            "ticker": "LKOH",
+            "classCode": "TQBR",
+            "isin": "RU0009024277",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "ЛУКОЙЛ",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2003-06-25T00:00:00Z",
+            "issueSize": "692865762",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "850563255",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 25000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "02cfdf61-6298-4c0f-a9ca-9cabc82afaf3",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "3213e01a-7bce-4946-b01e-5b0aaa3fc9b4",
+            "assetUid": "f898047a-dac8-4717-a40f-7f11211139ef",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "RU0009024277.png",
+                "logoBaseColor": "#e31d24",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S68507",
+            "ticker": "MAGN",
+            "classCode": "TQBR",
+            "isin": "RU0009084396",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Магнитогорский металлургический комбинат",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2002-11-05T00:00:00Z",
+            "issueSize": "11174330000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "7972665600",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 5000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "7132b1c9-ee26-4464-b5b5-1046264b61d9",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "3e2d3ee8-e757-418b-8443-306b9a9988a3",
+            "assetUid": "155eb875-f605-45de-ae15-70bcfb125ff0",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2006-03-09T07:00:00Z",
+            "brand": {
+                "logoName": "RU0009084396.png",
+                "logoBaseColor": "#2c499a",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004RVFCY3",
+            "ticker": "MGNT",
+            "classCode": "TQBR",
+            "isin": "RU000A0JKQU8",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Магнит",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2004-03-04T00:00:00Z",
+            "issueSize": "101911355",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "consumer",
+            "issueSizePlan": "850000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 10000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "ca845f68-6c43-44bc-b584-330d2a1e5eb7",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "6980e298-3ef5-4a1d-9148-6aba5668aa69",
+            "assetUid": "4833e124-265f-4879-adc8-58bdf983f54e",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2006-07-20T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JKQU8.png",
+                "logoBaseColor": "#EE1A24",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004730JJ5",
+            "ticker": "MOEX",
+            "classCode": "TQBR",
+            "isin": "RU000A0JR4A1",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Московская Биржа",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2011-09-16T00:00:00Z",
+            "issueSize": "2276401458",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "1659840000",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "5e1c2634-afc4-4e50-ad6d-f78fc14a539a",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "1b33fa68-cfc8-43e1-bd0e-2155d0199e7d",
+            "assetUid": "d68f33b3-76d9-423b-a656-b2580cb0c9f2",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2013-02-15T07:00:00Z",
+            "brand": {
+                "logoName": "MOEX.png",
+                "logoBaseColor": "#FE0002",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S687W8",
+            "ticker": "MSNG",
+            "classCode": "TQBR",
+            "isin": "RU0008958863",
+            "lot": 1000,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 250100000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Мосэнерго",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "1993-04-27T00:00:00Z",
+            "issueSize": "39749359700",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "utilities",
+            "issueSizePlan": "28267726000",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "98fc1318-6990-4147-b0d1-b10999326461",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "1bb748f3-6b56-4da1-9422-e83d929b4fdb",
+            "assetUid": "e442ca19-a0d0-4bab-92c3-4a0f75d4e878",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:38:00Z",
+            "first1dayCandleDate": "1997-03-25T00:00:00Z",
+            "brand": {
+                "logoName": "RU0008958863.png",
+                "logoBaseColor": "#137ec2",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S68598",
+            "ticker": "MTLR",
+            "classCode": "TQBR",
+            "isin": "RU000A0DKXV5",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 270000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 250000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Мечел",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2003-04-29T00:00:00Z",
+            "issueSize": "416270745",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "382969086",
+            "nominal": {
+                "currency": "rub",
+                "units": "10",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "eb4ba863-e85f-4f80-8c29-f2627938ee58",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "ad00cb52-0cf5-48b3-81d1-b842493a35ae",
+            "assetUid": "b9f09cfa-1099-4691-a981-8b1a4c0c72f3",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2008-12-31T00:00:00Z",
+            "brand": {
+                "logoName": "RU000A0DKXV5.png",
+                "logoBaseColor": "#51B8F9",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S68FR6",
+            "ticker": "MTLRP",
+            "classCode": "TQBR",
+            "isin": "RU000A0JPV70",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 300000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 280000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Мечел - Привилегированные акции",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2008-06-05T00:00:00Z",
+            "issueSize": "138756915",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "138756915",
+            "nominal": {
+                "currency": "rub",
+                "units": "10",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_PREFERRED",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 50000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "c1a3c440-f51c-4a75-a400-42a2a74f5f2b",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "e1eecf7e-95f1-42f7-9a64-a4e43eae7acc",
+            "assetUid": "cb1c065d-9d85-4aeb-9e31-41fafb7db8e1",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2011-04-21T00:00:00Z",
+            "brand": {
+                "logoName": "RU000A0DKXV5.png",
+                "logoBaseColor": "#51B8F9",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S681W1",
+            "ticker": "MTSS",
+            "classCode": "TQBR",
+            "isin": "RU0007775219",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "МТС",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2004-01-22T00:00:00Z",
+            "issueSize": "1998381575",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "telecom",
+            "issueSizePlan": "1993326138",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 100000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 50000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "cd8063ad-73ad-4b31-bd0d-93138d9e99a2",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "13d8a23f-3b23-45c9-a1b8-7ab48d4ec252",
+            "assetUid": "eb85ff63-713d-4ace-b4c8-922c9a5fc812",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:36:00Z",
+            "first1dayCandleDate": "2004-02-11T07:00:00Z",
+            "brand": {
+                "logoName": "mtsnew.png",
+                "logoBaseColor": "#ff0637",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S681B4",
+            "ticker": "NLMK",
+            "classCode": "TQBR",
+            "isin": "RU0009046452",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "НЛМК",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2004-04-09T00:00:00Z",
+            "issueSize": "5993227240",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "5987240",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 20000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "161eb0d0-aaac-4451-b374-f5d0eeb1b508",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "9f4c35ea-c5da-4526-89a1-1e29509a750f",
+            "assetUid": "fb0fb8a8-fcd5-4f78-b5aa-73b3be9f4454",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2006-04-18T07:00:00Z",
+            "brand": {
+                "logoName": "RU0009046452.png",
+                "logoBaseColor": "#0c54a0",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG00475KKY8",
+            "ticker": "NVTK",
+            "classCode": "TQBR",
+            "isin": "RU000A0DKVS5",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "НОВАТЭК",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2006-07-20T00:00:00Z",
+            "issueSize": "3036306000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "3036306000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 100000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "0da66728-6c30-44c4-9264-df8fac2467ee",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "e9aa66a5-573d-4b96-9ebc-7c4c3d520e44",
+            "assetUid": "2d850de1-466d-443d-b7fd-e78bf41146fb",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2004-12-30T07:00:00Z",
+            "brand": {
+                "logoName": "novatec.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG00Y91R9T3",
+            "ticker": "OZON",
+            "classCode": "TQBR",
+            "isin": "US69269L1044",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 300000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 280000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Ozon Holdings PLC",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "issueSize": "216413733",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "consumer",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "usd",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": false,
+            "shareType": "SHARE_TYPE_ADR",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "35fb8d6b-ed5f-45ca-b383-c4e3752c9a8a",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "fa9e3f7d-c343-40f8-ae2a-38650ffe3f40",
+            "assetUid": "90d6149c-2851-4e16-8778-1beb6b046ced",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2020-11-24T15:30:00Z",
+            "first1dayCandleDate": "2020-11-24T07:00:00Z",
+            "brand": {
+                "logoName": "ISSUANCEOZON.png",
+                "logoBaseColor": "#000000",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S689R0",
+            "ticker": "PHOR",
+            "classCode": "TQBR",
+            "isin": "RU000A0JRKT8",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "ФосАгро",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2012-02-14T00:00:00Z",
+            "issueSize": "129500000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "124477080",
+            "nominal": {
+                "currency": "rub",
+                "units": "2",
+                "nano": 500000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "1",
+                "nano": 0
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "9978b56f-782a-4a80-a4b1-a48cbecfd194",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "72c2e413-4c68-4e81-b412-910458d380a6",
+            "assetUid": "5a3d1efd-f8a0-478e-a10e-bb7f990f9c87",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:38:00Z",
+            "first1dayCandleDate": "2011-07-18T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JRKT8.png",
+                "logoBaseColor": "#0a549a",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004S68BH6",
+            "ticker": "PIKK",
+            "classCode": "TQBR",
+            "isin": "RU000A0JP7J7",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "ПИК",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2004-03-02T00:00:00Z",
+            "issueSize": "660497344",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "real_estate",
+            "issueSizePlan": "160000",
+            "nominal": {
+                "currency": "rub",
+                "units": "62",
+                "nano": 500000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 100000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "03d5e771-fc10-438e-8892-85a40733612d",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "d8b8bd17-fedd-40f9-8942-a8e866c76605",
+            "assetUid": "c14ab000-c378-432d-9686-1055170a4c3d",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:38:00Z",
+            "first1dayCandleDate": "2007-06-29T07:00:00Z",
+            "brand": {
+                "logoName": "pik1.png",
+                "logoBaseColor": "#375794",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG000R607Y3",
+            "ticker": "PLZL",
+            "classCode": "TQBR",
+            "isin": "RU000A0JNAA8",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Полюс",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2006-04-27T00:00:00Z",
+            "issueSize": "136069400",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "190627747",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "10620843-28ce-44e8-80c2-f26ceb1bd3e1",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "cfa0ac6c-7cc5-47f0-9486-9a5073a55313",
+            "assetUid": "6d9a99d0-73e5-4971-84d6-b90729f2400d",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:35:00Z",
+            "first1dayCandleDate": "2006-05-12T07:00:00Z",
+            "brand": {
+                "logoName": "PolyusGold.png",
+                "logoBaseColor": "#feb81c",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004PYF2N3",
+            "ticker": "POLY",
+            "classCode": "TQBR",
+            "isin": "JE00B6T5S470",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 277200000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 410600000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 292800000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "shortEnabledFlag": false,
+            "name": "Polymetal",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2011-10-28T00:00:00Z",
+            "issueSize": "515259819",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "usd",
+                "units": "0",
+                "nano": 30000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 100000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "127361c2-32ec-448c-b3ec-602166f537ea",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "f869a0b6-e4cd-4e15-a25a-095c936f2e3f",
+            "assetUid": "afbfbb30-28e4-477a-a8aa-3eb983d0d2e4",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2013-06-20T07:00:00Z",
+            "brand": {
+                "logoName": "JE00B6T5S470.png",
+                "logoBaseColor": "#EEEEEE",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "TCS00A103X66",
+            "ticker": "POSI",
+            "classCode": "TQBR",
+            "isin": "RU000A103X66",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 250000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 230000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Positive Technologies",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2017-11-13T00:00:00Z",
+            "issueSize": "66000000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "it",
+            "issueSizePlan": "6000000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 500000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "de08affe-4fbd-454e-9fd1-46a81b23f870",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "5a1bbbeb-8616-49c4-9752-d06be058f90b",
+            "assetUid": "41100a03-cb85-4496-8b74-957b2bdcd132",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2021-12-17T08:00:00Z",
+            "first1dayCandleDate": "2021-12-17T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A103X66.png",
+                "logoBaseColor": "#e52320",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG005D1WCQ1",
+            "ticker": "QIWI",
+            "classCode": "TQBR",
+            "isin": "US74735M1080",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 257100000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 539100000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 170000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 240600000
+            },
+            "shortEnabledFlag": false,
+            "name": "QIWI",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2013-05-03T00:00:00Z",
+            "issueSize": "52299453",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "it",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "usd",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_ADR",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "120a928b-b2d6-45d7-a445-f6e49614ae6d",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "2f317f60-7232-4ef3-9cb2-f2a217469f56",
+            "assetUid": "237a9295-4968-4fe7-aa2f-40637c436579",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T19:07:00Z",
+            "first1dayCandleDate": "2013-10-08T00:00:00Z",
+            "brand": {
+                "logoName": "US74735M1080.png",
+                "logoBaseColor": "#0023A0",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004731354",
+            "ticker": "ROSN",
+            "classCode": "TQBR",
+            "isin": "RU000A0J2Q06",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Роснефть",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2005-09-29T00:00:00Z",
+            "issueSize": "10598177817",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "9092174000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 10000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 50000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "fd417230-19cf-4e7b-9623-f7c9ca18ec6b",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "0a0acc65-84db-4ffc-b359-faa00de99d41",
+            "assetUid": "47ba7e01-8f52-4723-90e5-3ea379b9ccae",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2006-07-19T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0J2Q06.png",
+                "logoBaseColor": "#ffd200",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004S682Z6",
+            "ticker": "RTKM",
+            "classCode": "TQBR",
+            "isin": "RU0008943394",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Ростелеком",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2003-09-09T00:00:00Z",
+            "issueSize": "3282997929",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "telecom",
+            "issueSizePlan": "728696320",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 2500000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "02eda274-10c4-4815-8e02-a8ee7eaf485b",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "fe4d90a1-c6e9-478f-a1de-dbab19e29390",
+            "assetUid": "90d90ce6-3fb7-4eba-bf7e-d02163ecaae2",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "RU0008943394.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG008F2T3T2",
+            "ticker": "RUAL",
+            "classCode": "TQBR",
+            "isin": "RU000A1025V3",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "РУСАЛ",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2020-09-03T00:00:00Z",
+            "issueSize": "15193014862",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "15193014862",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 656517000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 5000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "f866872b-8f68-4b6e-930f-749fe9aa79c0",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "b303003a-c09d-4169-ab12-c9f67f183695",
+            "assetUid": "7d1ad8e7-9a2d-48fe-8c62-c92564d54e11",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2015-03-30T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A0JWDN61.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004730N88",
+            "ticker": "SBER",
+            "classCode": "TQBR",
+            "isin": "RU0009029540",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Сбер Банк",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2007-07-11T00:00:00Z",
+            "issueSize": "21586948000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "21586948000",
+            "nominal": {
+                "currency": "rub",
+                "units": "3",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "e6123145-9665-43e0-8413-cd61b8aa9b13",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "41eb2102-5333-4713-bf15-72b204c4bf7b",
+            "assetUid": "40d89385-a03a-4659-bf4e-d3ecba011782",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "sber3.png",
+                "logoBaseColor": "#309c0b",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG0047315Y7",
+            "ticker": "SBERP",
+            "classCode": "TQBR",
+            "isin": "RU0009029557",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Сбер Банк - привилегированные акции",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2007-07-11T00:00:00Z",
+            "issueSize": "1000000000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "1000000000",
+            "nominal": {
+                "currency": "rub",
+                "units": "3",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_PREFERRED",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "c190ff1f-1447-4227-b543-316332699ca5",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "9cf9718d-50df-4326-a205-cf306933607e",
+            "assetUid": "0f016970-78e8-43c8-b21c-ccff349a99cb",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "sber3.png",
+                "logoBaseColor": "#309c0b",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG002458LF8",
+            "ticker": "SELG",
+            "classCode": "TQBR",
+            "isin": "RU000A0JPR50",
+            "lot": 10,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Селигдар",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2007-05-23T00:00:00Z",
+            "issueSize": "1030000000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "50500000",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 10000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "0d28c01b-f841-4e89-9c92-0ee23d12883a",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "0808bc3b-dd81-49d4-a70a-d3754d23ec2a",
+            "assetUid": "d4e13625-5533-401e-8027-6e6d8305aa36",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T21:03:00Z",
+            "first1dayCandleDate": "2011-09-30T00:00:00Z",
+            "brand": {
+                "logoName": "seligdar.png",
+                "logoBaseColor": "#f5f5f6",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG0100R9963",
+            "ticker": "SGZH",
+            "classCode": "TQBR",
+            "isin": "RU000A102XG9",
+            "lot": 100,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Сегежа",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2020-12-18T00:00:00Z",
+            "issueSize": "15690000000",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "materials",
+            "issueSizePlan": "11940000000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 100000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 1000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "7bedd86b-478d-4742-a28c-29d27f8dbc7d",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "5fe05020-a682-4909-b9f6-93e91413fa93",
+            "assetUid": "9f1ce2d9-a6e9-421f-8451-14207ba5830a",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2021-04-28T06:59:00Z",
+            "first1dayCandleDate": "2021-04-28T07:00:00Z",
+            "brand": {
+                "logoName": "segezha.png",
+                "logoBaseColor": "#139344",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG00F6NKQX3",
+            "ticker": "SMLT",
+            "classCode": "TQBR",
+            "isin": "RU000A0ZZG02",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "ГК Самолет",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2018-03-22T00:00:00Z",
+            "issueSize": "61579358",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "real_estate",
+            "issueSizePlan": "60000400",
+            "nominal": {
+                "currency": "rub",
+                "units": "25",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "4d813ab1-8bc9-4670-89ea-12bfbab6017d",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "b53c2bb7-a997-457c-be08-7ef80be6547f",
+            "assetUid": "500bc62d-f78e-46d3-baf7-fbc9fb905ddd",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2020-10-29T06:59:00Z",
+            "first1dayCandleDate": "2020-10-29T07:00:00Z",
+            "brand": {
+                "logoName": "RU000A102RX6.png",
+                "logoBaseColor": "#000000",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG0047315D0",
+            "ticker": "SNGS",
+            "classCode": "TQBR",
+            "isin": "RU0008926258",
+            "lot": 100,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Сургутнефтегаз",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2003-06-24T00:00:00Z",
+            "issueSize": "35725994705",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "35725994705",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 5000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "1ffe1bff-d7b7-4b04-b482-34dc9cc0a4ba",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "87a7f6b3-f42d-423e-b213-1a013ea30ef3",
+            "assetUid": "56195dde-fd1a-4026-b8e0-42dbda342c7c",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "RU0008926258.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004S681M2",
+            "ticker": "SNGSP",
+            "classCode": "TQBR",
+            "isin": "RU0009029524",
+            "lot": 100,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Сургутнефтегаз - привилегированные акции",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2003-06-24T00:00:00Z",
+            "issueSize": "7701998235",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "7701998235",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_PREFERRED",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 5000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "a797f14a-8513-4b84-b15e-a3b98dc4cc00",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "178797ec-6065-4b32-b6ba-a79a54bc1479",
+            "assetUid": "bd87fa5d-22ca-447c-9c53-538631a67f40",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2000-01-04T07:00:00Z",
+            "brand": {
+                "logoName": "RU0008926258.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004RVFFC0",
+            "ticker": "TATN",
+            "classCode": "TQBR",
+            "isin": "RU0009033591",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Татнефть",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2001-10-26T00:00:00Z",
+            "issueSize": "2178690700",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "2178690700",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 100000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "88468f6c-c67a-4fb4-a006-53eed803883c",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "43ba384c-a484-4ee7-842d-59b80260fa3f",
+            "assetUid": "9da0b54d-f8dd-4e75-9081-ec0b8257775c",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2001-12-07T07:00:00Z",
+            "brand": {
+                "logoName": "RU0006944147.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004S68829",
+            "ticker": "TATNP",
+            "classCode": "TQBR",
+            "isin": "RU0006944147",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Татнефть - привилегированные акции",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2001-10-26T00:00:00Z",
+            "issueSize": "147508500",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "147508500",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_PREFERRED",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 100000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "efdb54d3-2f92-44da-b7a3-8849e96039f6",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "25d48d77-b2bc-4617-ba87-eeaa06f2cf2c",
+            "assetUid": "f14b0ffa-991f-42c4-a8a1-b43b821cbf08",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:35:00Z",
+            "first1dayCandleDate": "2007-07-12T07:00:00Z",
+            "brand": {
+                "logoName": "RU0006944147.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG00QPYJ5H0",
+            "ticker": "TCSG",
+            "classCode": "TQBR",
+            "isin": "TCS7238U2033",
+            "lot": 1,
+            "currency": "rub",
+            "shortEnabledFlag": false,
+            "name": "TCS Group",
+            "exchange": "moex_close",
+            "ipoDate": "2013-10-22T00:00:00Z",
+            "issueSize": "96239288",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "",
+                "units": "0",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_ADR",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 500000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "6afa6f80-03a7-4d83-9cf0-c19d7d021f76",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "4a1946eb-5ffb-4ebf-ac8c-44221c9f7a2f",
+            "assetUid": "4ac39e69-fff7-406c-8324-a869d97ec022",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": false,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2019-10-28T06:59:00Z",
+            "first1dayCandleDate": "2019-10-28T07:00:00Z",
+            "brand": {
+                "logoName": "tcs2.png",
+                "logoBaseColor": "#ffdf36",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG00475KHX6",
+            "ticker": "TRNFP",
+            "classCode": "TQBR",
+            "isin": "RU0009091573",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 250000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 250000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Транснефть - привилегированные акции",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2007-12-20T00:00:00Z",
+            "issueSize": "1554875",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "energy",
+            "issueSizePlan": "1554875",
+            "nominal": {
+                "currency": "rub",
+                "units": "1",
+                "nano": 0
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_PREFERRED",
+            "minPriceIncrement": {
+                "units": "50",
+                "nano": 0
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "653d47e9-dbd4-407a-a1c3-47f897df4694",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "d154098b-135b-4df9-ab3a-e719459debc3",
+            "assetUid": "e1448f66-ee8f-47dd-8421-af2009f6236c",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:35:00Z",
+            "first1dayCandleDate": "2002-05-22T07:00:00Z",
+            "brand": {
+                "logoName": "RU0009091573.png",
+                "logoBaseColor": "#dde0e4",
+                "textColor": "#000000"
+            }
+        },
+        {
+            "figi": "BBG004S686W0",
+            "ticker": "UPRO",
+            "classCode": "TQBR",
+            "isin": "RU000A0JNGA5",
+            "lot": 1000,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Юнипро",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2007-04-19T00:00:00Z",
+            "issueSize": "63048706145",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "utilities",
+            "issueSizePlan": "49130625974",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 400000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 1000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "664921c5-b552-47a6-9ced-8735a3c6ca8a",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "c94a2fbe-e0a5-46ea-9be7-d0add68375c9",
+            "assetUid": "c99b9966-e777-42a1-9caf-bf22842a2490",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:34:00Z",
+            "first1dayCandleDate": "2006-11-22T00:00:00Z",
+            "brand": {
+                "logoName": "Unipro.png",
+                "logoBaseColor": "#0079e0",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "TCS00A106YF0",
+            "ticker": "VKCO",
+            "classCode": "TQBR",
+            "isin": "RU000A106YF0",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 291900000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 190000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 300000000
+            },
+            "shortEnabledFlag": false,
+            "name": "ВК",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2023-09-11T00:00:00Z",
+            "issueSize": "227874940",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "it",
+            "issueSizePlan": "227874940",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 450595
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": false,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "b71bd174-c72c-41b0-a66f-5f9073e0d1f5",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "3888b26d-19f3-4a0b-a212-f36b82d6212c",
+            "assetUid": "f0a6fe09-3981-4501-a8f5-91821935e4d4",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2020-07-02T06:59:00Z",
+            "first1dayCandleDate": "2020-07-02T07:00:00Z",
+            "brand": {
+                "logoName": "vkc.png",
+                "logoBaseColor": "#000000",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG004730ZJ9",
+            "ticker": "VTBR",
+            "classCode": "TQBR",
+            "isin": "RU000A0JP5V6",
+            "lot": 10000,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 166500000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 180000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Банк ВТБ",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2006-09-29T00:00:00Z",
+            "issueSize": "26849669465190",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "financial",
+            "issueSizePlan": "5211112400000",
+            "nominal": {
+                "currency": "rub",
+                "units": "0",
+                "nano": 10000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": true,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 5000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "8e2b0325-0292-4654-8a18-4f63ed3b0e09",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "626d2ab0-3359-4d2d-8366-daedd2a0d000",
+            "assetUid": "94f18cc6-9e01-4db6-9d73-8c3ba6ab9655",
+            "forIisFlag": true,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:33:00Z",
+            "first1dayCandleDate": "2007-05-28T07:00:00Z",
+            "brand": {
+                "logoName": "vtb.png",
+                "logoBaseColor": "#0a2973",
+                "textColor": "#ffffff"
+            }
+        },
+        {
+            "figi": "BBG006L8G4H1",
+            "ticker": "YNDX",
+            "classCode": "TQBR",
+            "isin": "NL0009805522",
+            "lot": 1,
+            "currency": "rub",
+            "klong": {
+                "units": "2",
+                "nano": 0
+            },
+            "kshort": {
+                "units": "2",
+                "nano": 0
+            },
+            "dlong": {
+                "units": "0",
+                "nano": 220000000
+            },
+            "dshort": {
+                "units": "0",
+                "nano": 252600000
+            },
+            "dlongMin": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "dshortMin": {
+                "units": "0",
+                "nano": 250000000
+            },
+            "shortEnabledFlag": true,
+            "name": "Яндекс",
+            "exchange": "MOEX_EVENING_WEEKEND",
+            "ipoDate": "2011-05-24T00:00:00Z",
+            "issueSize": "326342270",
+            "countryOfRisk": "RU",
+            "countryOfRiskName": "Российская Федерация",
+            "sector": "it",
+            "issueSizePlan": "0",
+            "nominal": {
+                "currency": "eur",
+                "units": "0",
+                "nano": 10000000
+            },
+            "tradingStatus": "SECURITY_TRADING_STATUS_NORMAL_TRADING",
+            "otcFlag": false,
+            "buyAvailableFlag": true,
+            "sellAvailableFlag": true,
+            "divYieldFlag": false,
+            "shareType": "SHARE_TYPE_COMMON",
+            "minPriceIncrement": {
+                "units": "0",
+                "nano": 200000000
+            },
+            "apiTradeAvailableFlag": true,
+            "uid": "10e17a87-3bce-4a1f-9dfc-720396f98a3c",
+            "realExchange": "REAL_EXCHANGE_MOEX",
+            "positionUid": "cb51e157-1f73-4c62-baac-93f11755056a",
+            "assetUid": "fd619140-904d-4607-bc14-015abe40e278",
+            "forIisFlag": false,
+            "forQualInvestorFlag": false,
+            "weekendFlag": true,
+            "blockedTcaFlag": false,
+            "liquidityFlag": true,
+            "first1minCandleDate": "2018-03-07T18:38:00Z",
+            "first1dayCandleDate": "2014-06-04T07:00:00Z",
+            "brand": {
+                "logoName": "NL000980552.png",
+                "logoBaseColor": "#ff0000",
+                "textColor": "#ffffff"
+            }
+        }
+    ]
+}
